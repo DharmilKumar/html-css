@@ -1,0 +1,236 @@
+.card-1 {
+    width: 25rem;
+
+    font-family: sans-serif;
+    height: 30rem;
+}
+
+.card-1-back {
+    background-image: url("sky-blue-background-image-in-bottom-social-media-icons.png");
+    background-size: 100% 100%;
+}
+
+.card-1-icon {
+    color: white;
+    font-size: 25px;
+}
+
+.card-1-head {
+    color: white;
+    font-size: 25px;
+}
+
+.card-1-bottom {
+    height: 8%;
+    width: 30%;
+    border-radius: 5%;
+
+    background-color: white;
+}
+
+.card-1-mid {
+    color: white;
+}
+
+.card-1-link {
+    font-weight: 500;
+    color: black;
+    font-size: 12px;
+}
+
+.space {
+    height: 30px;
+}
+
+.card-2 {
+    width: 25rem;
+}
+
+.card-2-body {
+    border: 1px solid rgb(202, 202, 202);
+    border-radius: 3px;
+}
+
+.card-2-back img {
+    width: 100%;
+}
+
+.card-2-prof {
+    width: 90px;
+    padding: 4px;
+    margin-top: -45px;
+}
+
+.card-2-prof img {
+    border-radius: 3px;
+    border: 4px solid white;
+}
+
+.card-2-teach {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.card-2-blue {
+    color: blue;
+}
+
+.card-2-line {
+    width: 80%;
+    border-top: 1px solid rgb(202, 202, 202);
+    ;
+}
+
+.card-2-bottom {
+    height: 10%;
+    width: 40%;
+    border-radius: 5%;
+    background-color: rgb(222, 246, 255);
+}
+
+.card-2-link {
+    color: blue;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+
+.card-3 {
+    width: 50rem;
+}
+
+.card-3-1 {
+    background-color: #f9f9f9;
+    width: 13rem;
+}
+
+.card-3-1-icon {
+    color: white;
+    font-size: x-large;
+}
+
+.card-3-1-icon-back {
+    border-radius: 6px;
+    width: 35%;
+    background-color: #4c7fdc;
+}
+
+.card-3-1-mid {
+    font-size: 12px;
+}
+
+.card-3-2-icon {
+    color: white;
+    font-size: xx-large;
+}
+
+.card-3-2-icon-back {
+    border-radius: 6px;
+    width: 35%;
+    background-color: #ffcf52;
+}
+
+.card-3-3-icon {
+    color: white;
+    font-size: xx-large;
+}
+
+.card-3-3-icon-back {
+    border-radius: 6px;
+    width: 35%;
+    background-color: rgb(255 152 75);
+}
+
+
+.card-4 {
+    width: 60rem;
+    background-color: #f9f9f9;
+}
+
+.card-4-1 {
+    width: 13rem;
+    background-color: white;
+}
+
+.bank-icon {
+    font-size: 25px;
+    width: 30%;
+    background-color: rgb(240 243 243);
+
+
+}
+
+.view-details p {
+    color: #47c89c;
+}
+
+.line {
+    border-bottom: 1px solid rgb(217, 217, 217);
+    width: 90%;
+}
+
+.card-4-text {
+    font-size: 11px;
+}
+
+.card-5{
+    width: 50rem;
+    background-color: rgb(18, 15, 40);
+    color: white;
+}
+
+.cup{
+    color: palevioletred;
+    font-size: 40px;
+
+}
+
+
+.card-6{
+    width: 25rem;
+}
+
+.card-6-body{
+    background-color:rgb(18, 15, 40) ;
+}
+.card-6-body-img{
+    background-image: url("Coco\ Cola\ Bottl\ 1.png");
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+
+.card-6-box{
+    padding-top: 80%;
+    padding-bottom: 10%;
+}
+
+.box-body{
+    width: 80%;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+.card-6-text{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: palevioletred;
+}
+
+.card-7{
+    width: 30rem;
+}
+.card-7-body{
+    background-image: url("weld.jpg");
+    background-size: 100% 100%;
+}
+.card-7-box{
+    padding-top: 30%;
+    padding-bottom: 25%;
+}
+.card-7-icon{
+    width: 10%;
+    background-color: blue;
+}
+.watch{
+    color: white;
+}
